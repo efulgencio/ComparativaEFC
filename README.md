@@ -1,7 +1,7 @@
 # ComparativaEFC
 Comparativa fotos por filtro aplicado y brillo.
 
-
+![](comparativa_fotos.mov)
 
 Un editor de fotos minimalista en un solo archivo de SwiftUI. Diseñado para aprender a usar Core Image y el procesamiento de fotos de forma acumulativa (filtros + brillo) sin perder calidad.
 
