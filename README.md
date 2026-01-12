@@ -6,9 +6,8 @@
 
 Aquí puedes ver cómo funciona la aplicación, el ajuste de brillo en tiempo real y la comparativa de versiones:
 
-<video src="comparativa_fotos.mov" width="300" controls>
-  Tu navegador no soporta el elemento de video.
-</video>
+
+<video src="https://github.com/efulgencio/ComparativaEFC/blob/main/comparativa_fotos.mov?raw=true" width="300" controls></video>
 
 ## ✨ Características Principales
 
